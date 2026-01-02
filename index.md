@@ -1,6 +1,6 @@
 # ChatGPT and Mark Cuban's Thoughts on Potential Fixes to US Healthcare
 
-- [Question 1: Cuban’s Healthcare framework](#question-1-cubans-healthcare-framework)
+- [Question 1: Cuban’s Healthcare Framework](#question-1-cubans-healthcare-framework)
 - [Question 2: Cuban vs Medicare For All](#question-2-cuban-vs-medicare-for-all)
 - [Question 3: The 5 Trillion Dollar Problem](#question-3-the-5-trillion-dollar-problem)
 - [Question 4: OffCall Interview Takeaways](#question-4-offcall-interview-takeaways)
